@@ -6,18 +6,18 @@
       "bot",
       "shell"
     ],
-    "repository": "https://github.com/vedamithra430/Clone-BOT",
-    "website": "https://github.com/vedamithra430/Clone-BOT",
-    "success_url": "https://github.com/vedamithra430/Clone-BOT",
+    "repository": "https://github.com/batmanbehindthedark/ThePirate",
+    "website": "https://github.com/batmanbehindthedark/ThePirate",
+    "success_url": "https://github.com/batmanbehindthedark/ThePirate",
     "stack": "container",
     "env": {
       "BOT_TOKEN": {
         "description": "Get your bot token by talking to @Botfather", 
-        "value": "2104810690:AAEz6iAB-pdx8xY-754k46GhCqh_BHotznU"
+        "value": ":5897391375:AAGrZTCIylX0dLJAEtx5hiO_DaH4rsMK0BU"
       },
       "OWNER_ID": {
         "description": "Your telegram ID (not username)",
-        "value": "2068711372"
+        "value": "969099516"
       }
     }
 }
