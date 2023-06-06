@@ -13,11 +13,11 @@
     "env": {
       "BOT_TOKEN": {
         "description": "Get your bot token by talking to @Botfather", 
-        "value": "1835113477:AAHyx-mzepmgHAFt-YQrRlTelI8cRN3obh0"
+        "value": "2104810690:AAEz6iAB-pdx8xY-754k46GhCqh_BHotznU"
       },
       "OWNER_ID": {
         "description": "Your telegram ID (not username)",
-        "value": "617075060"
+        "value": "2068711372"
       }
     }
 }
